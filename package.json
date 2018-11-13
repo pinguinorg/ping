@@ -1,7 +1,7 @@
 {
   "name": "@pinguinorg/ping",
   "version": "0.0.0",
-  "description": "A multitool android application...",
+  "description": "A StepCounter For Android...",
   "author": "Misha Marinenko <misha@marinenko.rf.gd>",
   "license": "GPL-3.0",
   "nativescript": {
